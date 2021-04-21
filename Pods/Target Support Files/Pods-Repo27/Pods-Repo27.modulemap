@@ -1,0 +1,6 @@
+framework module Pods_Repo27 {
+  umbrella header "Pods-Repo27-umbrella.h"
+
+  export *
+  module * { export * }
+}
